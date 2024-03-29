@@ -1,0 +1,19 @@
+{
+  "name": "node_js_train",
+  "version": "1.0.0",
+  "description": "just training...",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PanabeeWQW/node_js_ex.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PanabeeWQW/node_js_ex/issues"
+  },
+  "homepage": "https://github.com/PanabeeWQW/node_js_ex#readme"
+}
