@@ -1,4 +1,2 @@
-let a = 5;
-let b = 5;
-let c = a + b;
-console.log(`chislo: ${c}`);
+let a = "Это ветка не измененна"
+console.log(a)
