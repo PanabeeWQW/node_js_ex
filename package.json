@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/PanabeeWQW/node_js_ex/issues"
   },
-  "homepage": "https://github.com/PanabeeWQW/node_js_ex#readme"
+  "homepage": "https://github.com/PanabeeWQW/node_js_ex#readme",
+  "dependencies": {
+    "currency-converter-lt": "^2.0.1"
+  }
 }
