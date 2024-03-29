@@ -1,2 +1,1 @@
-let a = "Это ветка не измененна"
-console.log(a)
+let a = "1 commit"
